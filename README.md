@@ -83,6 +83,6 @@ Data_Structures/
 
 ## Author
 
-**Laxmi Rahul Rathod**
+**Laxmi Shankar Aade**
 
 Built to strengthen understanding of core data structures by implementing every concept from scratch across multiple programming languages.
